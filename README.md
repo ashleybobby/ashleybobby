@@ -11,14 +11,39 @@ I am a student passionate about Artificial Intelligence and Software Development
 -  Continuously learning and expanding my technical expertise
 -  Open to internships, collaborations, and innovative projects
 
-## Technical Skills
+##  Skills
+
+### Programming Languages
 - Python
+- C
 - C++
-- Networking Fundamentals
-- Arduino Basics
-- Microsoft Office Suite
-- Technical Documentation
+
+### AI & Robotics
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Robotics
+- Arduino
+- Arduino IDE
+
+### Software & Tools
+- Microsoft Office
+- Microsoft Word
+- Microsoft Excel
+- Microsoft PowerPoint
+- Microsoft Outlook
 - Git & GitHub
+
+### Concepts
+- Object-Oriented Programming (OOP)
+- Programming Fundamentals
+
+### Soft Skills
+- Leadership
+- Teamwork
+- Public Speaking
+- Creativity
+- Time Management
 
 ## Career Goal
 My goal is to become an AI Engineer and Project Team Leader, combining technical expertise, creativity, and leadership to develop impactful solutions that address real-world problems.
