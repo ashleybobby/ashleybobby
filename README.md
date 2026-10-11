@@ -16,7 +16,7 @@ I am a student passionate about Artificial Intelligence and Software Development
 ### Programming Languages
 - Python
 - C
-- C++
+
 
 ### AI & Robotics
 - Artificial Intelligence
